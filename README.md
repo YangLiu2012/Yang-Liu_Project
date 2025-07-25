@@ -22,13 +22,6 @@ How I collect the dataset
          4.    sort the images in three directories: test, train, and val.
 
 
-How to use: 
-```Bash
-imagenet.py \
-                                                                              --model=resnet18.onnx \
-                                                                              --labels=labels.txt \
-                                                                               --input_blob=input_0 \
-                                                                               --output_blob=output_0 \
-                                                                               input.jpg output.jpg
+Walkthrough video: https://drive.google.com/file/d/1Qz9YbpJK9EgLcGCcJfG1R7nD6B4-wurB/view?usp=sharing
+                                                                          
 
-```
